@@ -113,7 +113,10 @@ This helps ensure that at-risk customers receive timely follow-up.
 ![Customer Success Dashboard](Screenshots/customer-success-dashboard.png) 
 ### Customer Health Report
 
-![Customer Health Overview](Screenshots/customer-health-overview.png)
+![Customer Health Overview](Screenshots/customer-health-overview.png) 
+### At-Risk Customer Automation
+
+![At-Risk Customer Flow](Screenshots/at-risk-customer-flow.png)
 ### At-Risk Customer Automation
 
 *Salesforce Flow screenshot will be added here.*
